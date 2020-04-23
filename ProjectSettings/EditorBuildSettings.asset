@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start Menu.unity
+    guid: 1ef432c0e888b864fb0a316da8c115b5
+  - enabled: 1
+    path: Assets/Scenes/Level Select.unity
+    guid: 2d461b1282f49cd41a5b5d46a86b2b03
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: a8511fa4689eba949b3562d84cfd8136
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 15fb143b75634504db38586acb326a36
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: ca6662f29c92afa4ca8cc244c6a37acd
+  - enabled: 1
+    path: Assets/Scenes/LevelWin.unity
+    guid: af8f0e4e9debcd94d8e1cea3aedfc14d
+  - enabled: 1
+    path: Assets/Scenes/GameWin.unity
+    guid: 2e4ca9fe2d64fea4e8a0d064063bff00
+  - enabled: 0
+    path: Assets/Scenes/Credits.unity
+    guid: 98731fe5c5ae86344ab74875a6b39ea0
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: af5abe1171faf364bb150fd81739e6d6
+  - enabled: 1
+    path: Assets/Scenes/HowToPlay.unity
+    guid: 6ae171d515b754b468b1f36768537de6
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects: {}
